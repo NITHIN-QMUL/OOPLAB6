@@ -5,3 +5,4 @@ class Name{
         System.out.println("Hi this is Nithin" );
     }
 }
+change line from main
